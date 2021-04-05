@@ -2,8 +2,8 @@
 
 
 
-# Hola, me llamo Aylén! 
-Soy Full Stack Developer
+# Hello world! 
+Hey! soy Aylén, Full Stack Developer
 
 Me considero creativa, pensativa, innovadora y estoy en constante crecimiento. 
 Me gusta mucho aplicar la empatía en todas las áreas, prestar atención a los detalles, 
