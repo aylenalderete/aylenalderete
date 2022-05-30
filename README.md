@@ -2,18 +2,19 @@
 
 
 
-# Hello world! 
+# Hey there!
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> Some things about me: </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="25%" align="right" alt="image" src="https://user-images.githubusercontent.com/70109524/171035577-2636015b-c395-4164-9ce6-d2cc5bc33a8c.png" />
 
+- 💬 I speak spanish and english
 
-- 🔭 I’m currently studying for a bachelor’s degree in psychology
+- 🧠 I’m currently studying for a bachelor’s degree in Psychology
 
-- 🌱 I’m currently learning AI and Machine Learning
+- 🔬 I’m currently learning on my own incredible things like AI, Machine Learning and Python
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source
+- 🌱 I like to talk about psychology, programming (with python), artificial intelligence, social enterprises & solving social problems, faith and beliefs, dogs, all kinds of arts and simple things in life like watching a sunset or a beautiful landscape
 
 - 📫 Feel free to contact me on [Linkedin](https://www.linkedin.com/in/aylenalderete/)
 
