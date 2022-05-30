@@ -2,7 +2,7 @@
 
 <h2> Some things about me: </h2>
 
-<img width="25%" align="right" alt="image" src="https://user-images.githubusercontent.com/70109524/171035577-2636015b-c395-4164-9ce6-d2cc5bc33a8c.png" />
+<img width="30%" align="right" alt="image" src="https://user-images.githubusercontent.com/70109524/171035577-2636015b-c395-4164-9ce6-d2cc5bc33a8c.png" />
 
 - 💬 I speak spanish and english
 
