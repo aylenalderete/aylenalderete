@@ -1,5 +1,5 @@
 # Hey there!
-#### I'm Aylén 👩🏽 and I will tell you a fun fact: I'm an INFJ according to the MBTI 🤪 (apparently, the weirdest personality in the world).
+#### I'm Aylén 👩🏽 and I will tell you a fun fact: I'm an INFJ according to the MBTI 🤪 (apparently, the weirdest personality).
 
 <h2> Some things about me: </h2>
 
