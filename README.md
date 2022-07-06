@@ -1,6 +1,6 @@
 ### Hey there!
 
-#### Some things about me:
+#### Things about me:
 
 <img width="30%" align="right" alt="image" src="https://user-images.githubusercontent.com/70109524/171035577-2636015b-c395-4164-9ce6-d2cc5bc33a8c.png" />
 
