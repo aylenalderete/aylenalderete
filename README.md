@@ -8,7 +8,7 @@
 
 - 🧠 I’m currently studying for a bachelor’s degree in Psychology
 
-- 🔬 I’m currently learning on my own incredible things like AI, Machine Learning and Python
+- 🔬 I’m currently learning on my own incredible things like AI, Data Science, Machine Learning and Python
 
 - 🌱 I like to talk about psychology, programming (with python), artificial intelligence, social enterprises & solving social problems, faith and beliefs, dogs, all kinds of arts and simple things in life like watching a sunset or a beautiful landscape
 
